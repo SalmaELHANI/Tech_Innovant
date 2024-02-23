@@ -8,8 +8,8 @@ const Hero = () => {
             <div className="grid grid-cols-1 lg:grid-cols-12">
                 <div className='col-span-7 place-self-center text-center sm:text-left'>
                     <h1 className='mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold '>Bienvenue chez Tech Innovate</h1>
-                    <p className='text-gray-500 text-base  sm:text-lg lg:text-xl mb-6'> Découvrez l'avenir de la technologie avec notre Showcase. Nous sommes passionnés par
-                        l'innovation et nous mettons en avant les dernières avancées dans divers domaines.
+                    <p className='text-gray-500 text-base  sm:text-lg lg:text-xl mb-6'> Découvrez l&apos;avenir de la technologie avec notre Showcase. Nous sommes passionnés par
+                        l&apos;innovation et nous mettons en avant les dernières avancées dans divers domaines.
                     </p>
                     <div>
                     <Link href="/#footer" className='px-6 py-3 rounded-full w-full sm:w-fit mr-4 border border-primary bg-primary p-3 text-white transition bg-blue-700 hover:border-blue-700 hover:bg-white hover:text-black '> Contact </Link>

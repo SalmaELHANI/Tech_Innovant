@@ -16,7 +16,7 @@ const Service = () => {
               </h2>
               <p className="text-base text-body-color dark:text-dark-6">
                 Explorez nos solutions technologiques innovantes conçues pour
-                transformer votre entreprise et stimuler le succès à l'ère
+                transformer votre entreprise et stimuler le succès à l&apos;ère
                 numérique.
               </p>
             </div>
